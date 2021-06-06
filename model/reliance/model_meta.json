@@ -1,0 +1,1 @@
+{"inputUnits":[1],"outputUnits":2,"inputs":{"close":{"dtype":"number","min":875.72,"max":2324.55}},"outputs":{"label":{"dtype":"string","min":0,"max":1,"uniqueValues":["sell","buy"],"legend":{"sell":[1,0],"buy":[0,1]}}},"isNormalized":true}
